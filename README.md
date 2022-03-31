@@ -1,7 +1,7 @@
 # Hi There 👋 I'm Beyza
-I'm currently student at Certificate of Higher Education in Computer Programming (for 2 year) and I will graduate in 2022
 
 ## A Full Stack Developer
+I'm currently student at Certificate of Higher Education in Computer Programming (for 2 year) and I will graduate in 2022
 
 ## Reach Out To Me
 
